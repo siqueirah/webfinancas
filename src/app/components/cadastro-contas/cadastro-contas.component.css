@@ -1,0 +1,60 @@
+.card {
+    background-color: #fff;
+    /* Light, neutral background */
+    border-radius: 0.5rem;
+    /* Rounded corners for a modern look */
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+    /* Subtle shadow for depth */
+}
+
+.card-header {
+    color: #fff;
+    /* White text for good contrast */
+}
+
+.table {
+    border-color: #dee2e6;
+    /* Light border color */
+    font-size: 0.875rem;
+    /* Adjust font size if needed */
+}
+
+.table>thead>tr>th {
+    color: #fff;
+    /* White text in header for contrast */
+    background-color: #343a40;
+    /* Darker background for header */
+}
+
+.table-success>td {
+    color: #28a745;
+    /* Green text for positive values */
+}
+
+.table-danger>td {
+    color: #dc3545;
+    /* Red text for negative values */
+}
+
+.badge {
+    font-size: 0.875rem;
+    /* Adjust font size if needed */
+    padding: 0.25rem 0.75rem;
+    /* Adjust padding if needed */
+}
+
+.btn-outline-primary,
+.btn-outline-danger {
+    color: #343a40;
+    /* Darker text color for outline buttons */
+    border-color: #343a40;}
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+    body {
+      font-family: 'Roboto', sans-serif;
+    }
+    
+    h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+    }

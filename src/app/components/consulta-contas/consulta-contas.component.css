@@ -1,0 +1,22 @@
+.card {
+    background-color: #fff; /* Light, neutral background */
+    border-radius: 0.5rem; /* Rounded corners for a modern look */
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
+  }
+  
+  .card-body {
+    padding: 1.5rem; /* Adjust padding if needed */
+  }
+  
+  label {
+    font-weight: 500; /* Slightly bolder font weight for labels */
+  }
+  
+  .form-control {
+    border-radius: 0.25rem; /* Rounded corners for input fields */
+  }
+  
+  .btn-success {
+    background-color: #28a745; /* Green background color for the button */
+    border-color: #28a745; /* Green border color for the button */
+  }
